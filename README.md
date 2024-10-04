@@ -21,6 +21,12 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
     - Bases Vetoriais
     - Recuperadores (Retriever)
 
+## Mantenha seu repositório sempre atualizado
+- Pessoal, como eu estou construindo este tutorial conforme me sobra um tempo livre algumas notas de estudo ou código serão atualizados ao longo do tempo, alguns arquivos serão atualizados constantemente. Dessa forma, eu recomendo que você sempre realize um update dos arquivos do repositório para a ultima versão.
+- Qualquer alteração eu informarei durante a video aula.
+- Qualquer dúvida eu erro que vocês tiverem, não deixe de compartilhar para que eu ou alguém da comunidade possa te auxiliar.
+- Os arquivos que poderão ser atualizados com recorrência são:`.env.exemplo` , `requirements.txt` .
+
 ## Começando
 
 ### Pré-requisitos
@@ -51,7 +57,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
    mv .env.example .env
    ```
 
-5) Execute os exemplos de código via interface ou via terminal, conforme sua preferencia.
+5) Execute os exemplos de código via interface ou via terminal, conforme sua preferência.
 
 ## Estrutura do Repositório
 
@@ -99,6 +105,17 @@ Veja o que você encontrará em cada pasta:
 ## Documentação Completa
 
 Cada script neste repositório contém comentários detalhados explicando o propósito e a funcionalidade do código. Isso ajudará você a entender o fluxo e a lógica por trás de cada exemplo.
+
+## Participe da comunidade
+
+> Comunidade no Discord: [Participe Clicando Aqui]()
+
+> Comunidade no Whatsapp:[Participe Clicando Aqui]()
+
+- Conto com vocês para construirmos uma comunidade bastante cooperativa, então não deixe de compartilhar ideias, erros, sugestões, elogios etc.
+- Sempre ajude o próximo! Quando você ensina você aprende duas vezes.
+- Erros podem acontecer então compartilhe e se você souver resolver fique a vontade para compartilhar a solução.
+
 
 ## FAQ
 
