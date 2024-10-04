@@ -48,6 +48,11 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
    ```bash
    pip install -r requirements.txt
    ```
+**Atenção**: Se por acaso o comando de instalação das dependências acima não funciuonar, tente executar a instalação via terminal pip:
+
+```commandline
+pip install langchain-openai langchain langchain-core langchain-community langchain-experimental python-dotenv SQLAlchemy
+```
 
 3. Configure as variáveis de ambiente:
 
