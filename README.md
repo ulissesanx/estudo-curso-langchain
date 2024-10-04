@@ -39,30 +39,37 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 
 1. Clone o repositório:
 
-   ```bash
+   ```
    git clone https://github.com/gustavo-sacchi/curso-langchain.git
    ```
 
-2. Instale as dependências usando o UV:
+2. Instale as dependências:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 **Atenção**: Se por acaso o comando de instalação das dependências acima não funciuonar, tente executar a instalação via terminal pip:
 
-```commandline
+``` 
 pip install langchain-openai langchain langchain-core langchain-community langchain-experimental python-dotenv SQLAlchemy
 ```
+    
 
 3. Configure as variáveis de ambiente:
 
    - Renomeie o arquivo `.env.example` para `.env` e atualize as variáveis com seus valores. Exemplo:
 
-   ```bash
+   ```
    mv .env.example .env
    ```
 
-5) Execute os exemplos de código via interface ou via terminal, conforme sua preferência.
+5) Crie o ambiente virtual: 
+
+    ```
+    python -m venv venv
+    ```
+
+6) Execute os exemplos de código via interface ou via terminal, conforme sua preferência.
 
 ## Estrutura do Repositório
 
