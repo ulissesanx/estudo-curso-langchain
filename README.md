@@ -4,17 +4,18 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 
 ## Conteúdo do Curso
 
-1. **Configuração do Ambiente**
-2. **Conceito sobre o LangChain**
-3. \*\*Unidade de trabalho LangChain \*\***`Runnable`**
-4. **Chat Models**
-5. **Prompt Templates**
-6. **Analisadores de Saída**
-7. **Chains**
-8. **Carregadores (Document Loaders)**
-9. **Memória**
-10. **Chatbot**
-11. **RAG (Retrieval-Augmented Generation)**
+1. **Apresentação do curso** - [Clique aqui]() e acesse o video do youtube
+2. **Configuração do Ambiente** - [Clique aqui]() e acesse o video do youtube
+3. **Conceito sobre o LangChain**
+4. **Unidade de trabalho LangChain** **`Runnable`**
+5. **Chat Models**
+6. **Prompt Templates**
+7. **Analisadores de Saída**
+8. **Chains**
+9. **Carregadores (Document Loaders)**
+10. **Memória**
+11. **Chatbot**
+12. **RAG (Retrieval-Augmented Generation)**
     - Splitters
     - Embedding
     - Bases Vetoriais
