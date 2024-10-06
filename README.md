@@ -120,9 +120,9 @@ Cada script neste repositório contém comentários detalhados explicando o prop
 
 ## Participe da comunidade
 
-> Comunidade no Discord: [Participe Clicando Aqui]()
+> Comunidade no Discord: [Participe Clicando Aqui](https://discord.gg/MuastgR4m4)
 
-> Comunidade no Whatsapp:[Participe Clicando Aqui]()
+> Comunidade no Whatsapp: [Participe Clicando Aqui](https://chat.whatsapp.com/Fj7dzuUx4TNJBPmNrBkolO)
 
 - Conto com vocês para construirmos uma comunidade bastante cooperativa, então não deixe de compartilhar ideias, erros, sugestões, elogios etc.
 - Sempre ajude o próximo! Quando você ensina você aprende duas vezes.
