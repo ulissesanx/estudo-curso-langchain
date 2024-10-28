@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 
 1. **Apresentação do curso** - [Clique aqui e acesse o video do youtube](https://youtu.be/mAa9lnK3HQw)
 2. **Configuração do Ambiente** - [Clique aqui e acesse o video do youtube](https://youtu.be/D3oQBfeB23U)
-3. **Conceito sobre o LangChain**
+3. **Conceito sobre o LangChain** - [Clique aqui e acesse o video do youtube](https://youtu.be/fNspLmXqm1Q)
 4. **Unidade de trabalho LangChain** **`Runnable`**
 5. **Chat Models**
 6. **Prompt Templates**
