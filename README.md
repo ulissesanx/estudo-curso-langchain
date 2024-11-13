@@ -21,6 +21,10 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
     - Bases Vetoriais
     - Recuperadores (Retriever)
 
+Extras:
+- Como Criar Seu Próprio ChatGPT com Memória em Menos de 20 Linhas de Python usando LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/SR4K7Tzc9NA?si=BSNcM0TgXx3-IFJl)
+
+
 ## Mantenha seu repositório sempre atualizado
 - Pessoal, como eu estou construindo este tutorial conforme me sobra um tempo livre algumas notas de estudo ou código serão atualizados ao longo do tempo, alguns arquivos serão atualizados constantemente. Dessa forma, eu recomendo que você sempre realize um update dos arquivos do repositório para a ultima versão.
 - Qualquer alteração eu informarei durante a video aula.
