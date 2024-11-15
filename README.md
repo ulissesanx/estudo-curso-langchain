@@ -10,7 +10,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 4. **Unidade de trabalho LangChain** **`Runnable`** - [Clique aqui e acesse o video do youtube](https://youtu.be/zlas_BXp9nc?si=bHxZDgEhAX9iNiPe)
 5. **Chat Models** - [Clique aqui e acesse o video do youtube](https://youtu.be/lfYzOlJCAlo?si=tRPaOK3J8p5jFEY1)
 6. **Prompt Templates** - [Clique aqui e acesse o video do youtube](https://youtu.be/lfYzOlJCAlo?si=53uF6FfKTD5JFMzq)
-7. **Analisadores de Saída**
+7. **Analisadores de Saída** - [Clique aqui e acesse o video do youtube]()
 8. **Chains**
 9. **Carregadores (Document Loaders)**
 10. **Memória**
