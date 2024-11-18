@@ -124,7 +124,7 @@ Cada script neste repositório contém comentários detalhados explicando o prop
 
 ## Participe da comunidade
 
-> Comunidade no Discord: [Participe Clicando Aqui](https://discord.gg/MuastgR4m4)
+> Comunidade no Discord: [Participe Clicando Aqui](https://discord.gg/4uTa2YSwAB)
 
 > Comunidade no Whatsapp: [Participe Clicando Aqui](https://chat.whatsapp.com/Fj7dzuUx4TNJBPmNrBkolO)
 
