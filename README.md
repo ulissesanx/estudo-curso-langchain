@@ -11,11 +11,12 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 5. **Chat Models** - [Clique aqui e acesse o video do youtube](https://youtu.be/lfYzOlJCAlo?si=tRPaOK3J8p5jFEY1)
 6. **Prompt Templates** - [Clique aqui e acesse o video do youtube](https://youtu.be/lfYzOlJCAlo?si=53uF6FfKTD5JFMzq)
 7. **Analisadores de Saída** - [Clique aqui e acesse o video do youtube](https://youtu.be/VQl1V2z0X8o)
-8. **Chains**
-9. **Carregadores (Document Loaders)**
-10. **Memória**
-11. **Chatbot**
-12. **RAG (Retrieval-Augmented Generation)**
+8. **Chains - Parte 1** - [Clique aqui e acesse o video do youtube](https://youtu.be/RuxyWgRRDGE?si=cbgJiTqYUxz2onPH)
+9. **Chains - Parte 2** - 
+10. **Carregadores (Document Loaders)**
+11. **Memória**
+12. **Chatbot**
+13. **RAG (Retrieval-Augmented Generation)**
     - Splitters
     - Embedding
     - Bases Vetoriais
