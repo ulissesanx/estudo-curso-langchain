@@ -15,12 +15,12 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 9. **Chains - Parte 2** - [Clique aqui e acesse o video do youtube](https://youtu.be/E36XcPahzTc?si=uFBx7W8UfE-Y-ec3)
 10. **Carregadores (Document Loaders)** - [Clique aqui e acesse o video do youtube](https://youtu.be/DC31BICQFEI)
 11. **Memória** - [Clique aqui e acesse o video do youtube](https://youtu.be/uZC34c6DXcI)
-12. **Chatbot**
-13. **RAG (Retrieval-Augmented Generation)**
-    - Splitters
-    - Embedding
-    - Bases Vetoriais
-    - Recuperadores (Retriever)
+12. **Chatbot** - [Clique aqui e acesse o video do youtube](https://youtu.be/2Ama0t2evHM)
+13. **RAG (Retrieval-Augmented Generation) - Conceito**  - Em Breve!
+    - Splitters - Em Breve!
+    - Embedding - Em Breve!
+    - Bases Vetoriais - Em Breve!
+    - Recuperadores (Retriever) - Em Breve!
 
 Extras:
 - Como Criar Seu Próprio ChatGPT com Memória em Menos de 20 Linhas de Python usando LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/SR4K7Tzc9NA?si=BSNcM0TgXx3-IFJl)
