@@ -16,7 +16,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 10. **Carregadores (Document Loaders)** - [Clique aqui e acesse o video do youtube](https://youtu.be/DC31BICQFEI)
 11. **Memória** - [Clique aqui e acesse o video do youtube](https://youtu.be/uZC34c6DXcI)
 12. **Chatbot** - [Clique aqui e acesse o video do youtube](https://youtu.be/2Ama0t2evHM)
-13. **RAG (Retrieval-Augmented Generation) - Conceito**  - Em Breve!
+13. **RAG (Retrieval-Augmented Generation) - Conceito**  - [Clique aqui e acesse o video do youtube](https://youtu.be/f2IUNYCF-G0)
     - Splitters - Em Breve!
     - Embedding - Em Breve!
     - Bases Vetoriais - Em Breve!
