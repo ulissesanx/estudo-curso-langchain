@@ -27,6 +27,7 @@ print("-----------------------------------------------------------------")
 
 print("\n----- CONVERTENDO UMA PERGUNTA EM EMBEDDING -----")
 embedded_query = embeddings_model.embed_query("Qual é o nome do seu amigo?")
+
 print("\n----- DIMENSÃO DOS VETORES -----")
 print("Como na query tmb utilizamos o mesmo modelo, a dimensão será igual dos documentos.")
 print(len(embedded_query))  # Tamanho do vetor da query (ex. 3072)
