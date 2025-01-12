@@ -17,14 +17,16 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 11. **Memória** - [Clique aqui e acesse o video do youtube](https://youtu.be/uZC34c6DXcI)
 12. **Chatbot** - [Clique aqui e acesse o video do youtube](https://youtu.be/2Ama0t2evHM)
 13. **RAG (Retrieval-Augmented Generation) - Conceito**  - [Clique aqui e acesse o video do youtube](https://youtu.be/f2IUNYCF-G0)
-    - Splitters - Em Breve!
+    - Splitters - [Clique aqui e acesse o video do youtube](https://youtu.be/h1urQIW9UTk)
     - Embedding - Em Breve!
     - Bases Vetoriais - Em Breve!
     - Recuperadores (Retriever) - Em Breve!
+    - Chatbot com RAG - Em Breve!
 
 Extras:
 - Como Criar Seu Próprio ChatGPT com Memória em Menos de 20 Linhas de Python usando LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/SR4K7Tzc9NA?si=BSNcM0TgXx3-IFJl)
-
+- Como usar o PostgreSQL para armazenamento de memória - Em Breve!
+- Como conectar seu chatbot ao whatsapp usando EvolutionAPI - Em Breve!
 
 ## Mantenha seu repositório sempre atualizado
 - Pessoal, como eu estou construindo este tutorial conforme me sobra um tempo livre algumas notas de estudo ou código serão atualizados ao longo do tempo, alguns arquivos serão atualizados constantemente. Dessa forma, eu recomendo que você sempre realize um update dos arquivos do repositório para a ultima versão.
