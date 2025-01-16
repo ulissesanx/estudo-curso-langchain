@@ -19,7 +19,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 13. **RAG (Retrieval-Augmented Generation) - Conceito**  - [Clique aqui e acesse o video do youtube](https://youtu.be/f2IUNYCF-G0)
     - Splitters - [Clique aqui e acesse o video do youtube](https://youtu.be/h1urQIW9UTk)
     - Embedding - [Clique aqui e acesse o video do youtube](https://youtu.be/2TRe7K49X94)
-    - Bases Vetoriais - Em Breve!
+    - Bases Vetoriais - [Clique aqui e acesse o video do youtube](https://youtu.be/xzmk1I73YnA)
     - Recuperadores (Retriever) - Em Breve!
 14. **Chatbot com RAG** - Em Breve!
 
