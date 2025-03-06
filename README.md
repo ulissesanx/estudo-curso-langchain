@@ -25,7 +25,7 @@ Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontr
 
 Extras:
 - Como Criar Seu Próprio ChatGPT com Memória em Menos de 20 Linhas de Python usando LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/SR4K7Tzc9NA?si=BSNcM0TgXx3-IFJl)
-- Como Utilizar APIs Gratuitas para fazer o curso da LangChain - [Clique aqui e acesse o video do youtube]()
+- Como Utilizar APIs Gratuitas para fazer o curso da LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/tGAiSM45kVY)
 - Como usar o PostgreSQL para armazenamento de memória - Em Breve!
 - Como conectar seu chatbot ao whatsapp usando EvolutionAPI - Em Breve!
 
