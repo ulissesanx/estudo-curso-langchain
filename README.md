@@ -1,6 +1,25 @@
 # Curso LangChain - Iniciantes
 
-Bem-vindo ao repositório do Curso LangChain para Iniciantes! Aqui você encontrará todos os exemplos de código necessários para acompanhar o curso e aprender sobre LangChain do zero. Ao final do curso, você será capaz de criar seus próprios aplicativos com LLM integrado, construir chatbots RAG e automatizar tarefas com IA.
+Bem-vindo ao meu repositório do Curso LangChain para Iniciantes! Aqui você encontrará, além de todos os exemplos de código necessários para acompanhar o curso e aprender sobre LangChain do zero - Os meus códigos e projetos desenvolvidos durante o estudo do curso de LangChain do zero!
+
+---
+
+## 📚 Base do Curso
+
+Este repositório é baseado no curso:
+
+**Título:** [Curso Completo de LangChain para Iniciantes]([https://link-do-curso.com](https://youtu.be/D3oQBfeB23U?si=kJsKD0uh0hQWxZNE))  
+**Autor:** @gustavo-sacchi
+
+---
+
+### 🛡️ Aviso de Ética e Uso
+
+> Este repositório **não é uma cópia nem redistribuição** do conteúdo original do curso.  
+>  
+> O objetivo é **documentar meu aprendizado de forma pessoal e aberta**, respeitando os direitos autorais e incentivando o estudo colaborativo.  
+
+---
 
 ## Conteúdo do Curso
 
