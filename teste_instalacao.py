@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 # Chama a API do modelos da Open IA.
-model = ChatOpenAI(model="gpt-4o")
+model = ChatOpenAI(model="gpt-4.1-nano")
 
 # Executa a chamada ao modelo
 result = model.invoke("Este é um teste. Se você recebeu a requisição responda 'Teste OK'.")
